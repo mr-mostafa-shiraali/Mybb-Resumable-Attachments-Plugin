@@ -21,4 +21,4 @@ Two simple condition :
 - Can Not Share Plugin with anyone.
 
 
-   ## More details : [Resumable Attachments Plugin](https://community.mybb.com/thread-242818.html)
+## More details : [Resumable Attachments Plugin](https://community.mybb.com/thread-242818.html)
